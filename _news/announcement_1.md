@@ -5,3 +5,4 @@ inline: true
 ---
 
 Thesis defense scheduled for July 9th!
+Will post streaming link when it is available.
