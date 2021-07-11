@@ -5,4 +5,4 @@ inline: true
 ---
 
 I defended my PhD!
-Here's the recording: https://www.youtube.com/watch?v=YvfPalv1cq0
+Here's [the recording](https://www.youtube.com/watch?v=YvfPalv1cq0)

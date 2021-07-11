@@ -28,6 +28,6 @@ experiments.
 
 My PhD defense was
 [recorded](https://www.youtube.com/watch?v=YvfPalv1cq0), and you can also check the
-[complete thesis](https://github.com/phrb/thesis/blob/master/slides/presentation.pdf),
+[complete thesis](https://github.com/phrb/thesis/blob/master/thesis.pdf),
 the [slides](https://github.com/phrb/thesis/blob/master/slides/presentation.pdf),
 and the [git repository](https://github.com/phrb/thesis).
